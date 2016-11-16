@@ -1,0 +1,519 @@
+Resource,Language,Field,Designation,Size
+Data Science For Business,General,Other,Books,3938
+Data Science Essentials (edx),General,Other,Classes,3938
+Coding the Matrix: Linear Algebra through Computer Science Applications,General,Other,Classes,3938
+Probabilistic Graphical Models,General,Other,Classes,3938
+SQL,General,Other,Classes,3938
+Jupyter Notebook,General,Other,Tools,3938
+igraph,General,Other,Tools,3938
+Anaconda Distribution,General,Other,Tools,3938
+opencv,General,Other,Tools,3938
+Neo4j,General,Other,Tools,3938
+Trifacta,General,Other,Tools,3938
+Narrative Science,General,Other,Tools,3938
+Learning Spark,General,Big Data,Books,3938
+Advanced Analytics with Spark,General,Big Data,Books,3938
+Big Data Specialization (Coursera),General,Big Data,Classes,3938
+Apache Spark,General,Big Data,Tools,3938
+Apache Flink,General,Big Data,Tools,3938
+Apace Impala,General,Big Data,Tools,3938
+Apache Storm,General,Big Data,Tools,3938
+Hadoop,General,Big Data,Tools,3938
+Apache Flink,General,Big Data,Tools,3938
+Web Scraping With Python,General,Data Mining,Books,3938
+Data Mining Specialization (Coursera),General,Data Mining,Classes,3938
+Selenium,General,Data Mining,Tools,3938
+Data Visualization with Python and JavaScript (O'Reilly),General,Data Visualization,Books,3938
+Data Visualization (Coursera),General,Data Visualization,Classes,3938
+Plotly,General,Data Visualization,Tools,3938
+Statistics In A Nutshell,General,Statistics,Books,3938
+Computational Probability And Inference (edx),General,Statistics,Classes,3938
+Inferential Statistics (Coursera),General,Statistics,Classes,3938
+Stan,General,Statistics,Tools,3938
+"Deep Learning (Bengio, Goodfellow, Courville)",General,Machine Learning,Books,3938
+Pattern Recognition And Machine Learning,General,Machine Learning,Books,3938
+Apache Mahout,General,Machine Learning,Books,3938
+Machine Learning (Coursera/Andrew Ng),General,Machine Learning,Classes,3938
+H20.ai,General,Machine Learning,Tools,3938
+cortical.io,General,Machine Learning,Tools,3938
+DatumBox,General,Machine Learning,Tools,3938
+xgboost,General,Machine Learning,Tools,3938
+RapidMiner,General,Machine Learning,Tools,3938
+DataRobot,General,Machine Learning,Tools,3938
+mxnet,General,Machine Learning,Tools,3938
+Shogun,General,Machine Learning,Tools,3938
+BigML,General,Machine Learning,Tools,3938
+Google Cloud Prediction API,General,Machine Learning,Tools,3938
+Creating Mobile Apps Without Coding,General,Web Apps,Books,3938
+Learn How To Build a Web Application Without Coding (Udemy),General,Web Apps,Classes,3938
+Bubble,General,Web Apps,Tools,3938
+Think Python,Python,Other,Books,3938
+Data Wrangling With Python,Python,Other,Books,3938
+Python for Data Analysis,Python,Other,Books,3938
+Introduction to Computer Science and Programming Using Python (edx),Python,Other,Classes,3938
+Anaconda Distribution,Python,Other,Tools,3938
+pandas,Python,Other,Tools,3938
+Dora,Python,Other,Tools,3938
+PyDy,Python,Other,Tools,3938
+numpy,Python,Other,Tools,3938
+sympy,Python,Other,Tools,3938
+scikit-image,Python,Other,Tools,3938
+PuLP,Python,Other,Tools,3938
+Learning Spark,Python,Big Data,Books,3938
+Data Science and Engineering with Apache Spark (edx),Python,Big Data,Classes,3938
+sparklingpandas,Python,Big Data,Tools,3938
+Blaze,Python,Big Data,Tools,3938
+PyCascading,Python,Big Data,Tools,3938
+Petrel,Python,Big Data,Tools,3938
+mrjob,Python,Big Data,Tools,3938
+Mining The Social Web,Python,Data Mining,Books,3938
+Web Scraping With Python,Python,Data Mining,Books,3938
+Introduction to Computer Science and Programming Using Python (edx),Python,Data Mining,Classes,3938
+BeautifulSoup,Python,Data Mining,Tools,3938
+Data Visualization With Python and JavaScript,Python,Data Visualization,Books,3938
+Data Visualization Basics with Python (O'Reilly),Python,Data Visualization,Classes,3938
+matplotlib,Python,Data Visualization,Tools,3938
+bokeh,Python,Data Visualization,Tools,3938
+seaborn,Python,Data Visualization,Tools,3938
+folium,Python,Data Visualization,Tools,3938
+ggplot,Python,Data Visualization,Tools,3938
+Orange,Python,Data Visualization,Tools,3938
+bqplot,Python,Data Visualization,Tools,3938
+vispy,Python,Data Visualization,Tools,3938
+Kartograph.py,Python,Data Visualization,Tools,3938
+PyQtGraph,Python,Data Visualization,Tools,3938
+d3py,Python,Data Visualization,Tools,3938
+vincent,Python,Data Visualization,Tools,3938
+networkx,Python,Data Visualization,Tools,3938
+Think Bayes,Python,Statistics,Books,3938
+Think Stats,Python,Statistics,Books,3938
+Computational Statistics In Python,Python,Statistics,Classes,3938
+scipy,Python,Statistics,Tools,3938
+Probabilistic Programming and Bayesian Methods For Hackers,Python,Machine Learning,Books,3938
+Data Analysis with Open Source Tools,Python,Machine Learning,Books,3938
+Natural Language Processing with Python,Python,Machine Learning,Books,3938
+Programming Collective Intelligence,Python,Machine Learning,Books,3938
+Data Science From Scratch,Python,Machine Learning,Books,3938
+Python Machine Learning,Python,Machine Learning,Books,3938
+Intro To Machine Learning (Udacity),Python,Machine Learning,Classes,3938
+Model Building and Validation (Udacity),Python,Machine Learning,Classes,3938
+Deep Learning (Udacity),Python,Machine Learning,Classes,3938
+statsmodels,Python,Machine Learning,Classes,3938
+nltk,Python,Machine Learning,Classes,3938
+GraphLab Create,Python,Machine Learning,Tools,3938
+scikit-learn,Python,Machine Learning,Tools,3938
+keras,Python,Machine Learning,Tools,3938
+Pattern,Python,Machine Learning,Tools,3938
+Rosetta,Python,Machine Learning,Tools,3938
+deap,Python,Machine Learning,Tools,3938
+pydeep,Python,Machine Learning,Tools,3938
+skflow,Python,Machine Learning,Tools,3938
+hyperopt,Python,Machine Learning,Tools,3938
+biopy,Python,Machine Learning,Tools,3938
+TPOT,Python,Machine Learning,Tools,3938
+spaCy,Python,Machine Learning,Tools,3938
+Pylearn2,Python,Machine Learning,Tools,3938
+Pyevolve,Python,Machine Learning,Tools,3938
+Crab,Python,Machine Learning,Tools,3938
+gensim,Python,Machine Learning,Tools,3938
+PyBrain,Python,Machine Learning,Tools,3938
+BrainStorm,Python,Machine Learning,Tools,3938
+Spearmint,Python,Machine Learning,Tools,3938
+Pebl,Python,Machine Learning,Tools,3938
+nupic,Python,Machine Learning,Tools,3938
+Featureforge,Python,Machine Learning,Tools,3938
+SimpleAI,Python,Machine Learning,Tools,3938
+TFLean,Python,Machine Learning,Tools,3938
+zipline,Python,Machine Learning,Tools,3938
+spammy,Python,Machine Learning,Tools,3938
+TextBlob,Python,Machine Learning,Tools,3938
+topik,Python,Machine Learning,Tools,3938
+Theano,Python,Machine Learning,Tools,3938
+pymc3,Python,Machine Learning,Tools,3938
+TensorFlow,Python,Machine Learning,Tools,3938
+mlextend,Python,Machine Learning,Tools,3938
+Flask Web Development,Python,Web Apps,Books,3938
+Complete Python Web Course: Build 8 Python Web Apps (Udemy),Python,Web Apps,Classes,3938
+pxyley,Python,Web Apps,Tools,3938
+flexx,Python,Web Apps,Tools,3938
+datasypre,Python,Web Apps,Tools,3938
+R For Everyone,R,Other,Books,3938
+The Data Science Toolbox (Coursera/John's Hopkins),R,Other,Classes,3938
+Data Analysis With R (Udacity),R,Other,Classes,3938
+Sabermetrics 101: Introduction to Baseball Analytics (edx),R,Other,Classes,3938
+dplyr,R,Other,Tools,3938
+tidyr,R,Other,Tools,3938
+rattle,R,Other,Tools,3938
+ProjectTemplate,R,Other,Tools,3938
+Big Data Analytics with R,R,Big Data,Books,3938
+Big Data Analysis with Revolution R Enterprise (DataCamp),R,Big Data,Classes,3938
+sparkR,R,Big Data,Tools,3938
+Mining Massive Data Sets,R,Data Mining,Books,3938
+Mining Massive Data Sets (Coursera),R,Data Mining,Classes,3938
+rvest,R,Data Mining,Tools,3938
+ggplot2: Elegant Graphics for Data Analysis,R,Data Visualization,Books,3938
+Data Visualization in R with ggvis (DataCamp),R,Data Visualization,Classes,3938
+ggplot2,R,Data Visualization,Tools,3938
+ggvis,R,Data Visualization,Tools,3938
+Intro to Stat Thinking with R,R,Statistics,Books,3938
+Explore Statistics With R (edx),R,Statistics,Classes,3938
+rapaio,R,Statistics,Tools,3938
+Machine Learning in Action,R,Machine Learning,Books,3938
+Machine Learning for Hackers,R,Machine Learning,Books,3938
+Applied Predictive Modeling,R,Machine Learning,Books,3938
+An Introduction To Statistical Learning,R,Machine Learning,Books,3938
+Statistical Learning (Stanford Languita),R,Machine Learning,Classes,3938
+The Analytics Edge (edx),R,Machine Learning,Classes,3938
+caret,R,Machine Learning,Tools,3938
+Boruta,R,Machine Learning,Tools,3938
+bst,R,Machine Learning,Tools,3938
+C50,R,Machine Learning,Tools,3938
+elasticnet,R,Machine Learning,Tools,3938
+evtree,R,Machine Learning,Tools,3938
+fpc,R,Machine Learning,Tools,3938
+GAMBoost,R,Machine Learning,Tools,3938
+glmnet,R,Machine Learning,Tools,3938
+gbm,R,Machine Learning,Tools,3938
+GMMBoost,R,Machine Learning,Tools,3938
+kernlab,R,Machine Learning,Tools,3938
+LibLineaR,R,Machine Learning,Tools,3938
+mboost,R,Machine Learning,Tools,3938
+maptree,R,Machine Learning,Tools,3938
+mlr,R,Machine Learning,Tools,3938
+medley,R,Machine Learning,Tools,3938
+nnet,R,Machine Learning,Tools,3938
+penalizedSVM,R,Machine Learning,Tools,3938
+randomForest,R,Machine Learning,Tools,3938
+rdetools,R,Machine Learning,Tools,3938
+relaxo,R,Machine Learning,Tools,3938
+rgp,R,Machine Learning,Tools,3938
+rgenoud,R,Machine Learning,Tools,3938
+rpart,R,Machine Learning,Tools,3938
+tree,R,Machine Learning,Tools,3938
+Rmalschains,R,Machine Learning,Tools,3938
+varSeIRF,R,Machine Learning,Tools,3938
+Web Application Development with R Using Shiny,R,Web Apps,Books,3938
+Developing Data Products (Coursera),R,Web Apps,Classes,3938
+Shiny,R,Web Apps,Tools,3938
+Data Science with Java,Java,Other,Books,3938
+Intro to Java Programming (Udacity),Java,Other,Classes,3938
+Eclipse IDE,Java,Other,Tools,3938
+Data Analytics With Hadoop (Jenny Kim),Java,Big Data,Books,3938
+Intro to Hadoop & MapReduce for Beginners (Udacity),Java,Big Data,Classes,3938
+Apache SAMOA,Java,Big Data,Tools,3938
+Java Data Mining,Java,Data Mining,Books,3938
+Data Mining with Weka (University of Waikato),Java,Data Mining,Classes,3938
+Java Data Mining Package,Java,Data Mining,Tools,3938
+Learning Processing (Daniel Shiffman),Java,Data Visualization,Books,3938
+Daniel Shiffman's Youtube Channel,Java,Data Visualization,Classes,3938
+Processing.js,Java,Data Visualization,Tools,3938
+Numeric Computation and Statistical Data Analysis on the Java Platform,Java,Statistics,Books,3938
+Statistics In Java (Dr.Dobbs),Java,Statistics,Classes,3938
+Statistics,Java,Statistics,Tools,3938
+Machine Learning in Java (Boštjan Kaluža),Java,Machine Learning,Books,3938
+Scalable Machine Learning (O\'Reilly),Java,Machine Learning,Classes,3938
+Stanford Name Entity Recognizer,Java,Machine Learning,Tools,3938
+Stanford Topic Modeling Toolbox,Java,Machine Learning,Tools,3938
+MALLET,Java,Machine Learning,Tools,3938
+aerosolve,Java,Machine Learning,Tools,3938
+Deeplearning4j,Java,Machine Learning,Tools,3938
+EvA2,Java,Machine Learning,Tools,3938
+Encog,Java,Machine Learning,Tools,3938
+ELKI,Java,Machine Learning,Tools,3938
+OPENNLP,Java,Machine Learning,Tools,3938
+CoreNLP,Java,Machine Learning,Tools,3938
+Professional Java for Web Applications,Java,Web Apps,Books,3938
+Java Webapps Tutorial (LMU Computer Science),Java,Web Apps,Classes,3938
+play,Java,Web Apps,Tools,3938
+Spring MVC,Java,Web Apps,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Other,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Other,Classes,3938
+DataFrames,Julia,Other,Tools,3938
+RDataSets,Julia,Other,Tools,3938
+Graph Layout,Julia,Other,Tools,3938
+Data Frames Meta,Julia,Other,Tools,3938
+Julia Data,Julia,Other,Tools,3938
+Data Read,Julia,Other,Tools,3938
+Data Arrays,Julia,Other,Tools,3938
+Julia High Performance (Avik Sengupta),Julia,Big Data,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Big Data,Classes,3938
+High Performance Analytics Toolkit,Julia,Big Data,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Data Mining,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Data Mining,Classes,3938
+JuliaWeb,Julia,Data Mining,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Data Visualization,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Data Visualization,Classes,3938
+Gadfly,Julia,Data Visualization,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Statistics,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Statistics,Classes,3938
+Distributions,Julia,Statistics,Tools,3938
+Sampling,Julia,Statistics,Tools,3938
+Hypothesis Tests,Julia,Statistics,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Machine Learning,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Machine Learning,Classes,3938
+MLBase,Julia,Machine Learning,Tools,3938
+PGM,Julia,Machine Learning,Tools,3938
+DA,Julia,Machine Learning,Tools,3938
+Local Regression,Julia,Machine Learning,Tools,3938
+Text Analysis,Julia,Machine Learning,Tools,3938
+Merlin,Julia,Machine Learning,Tools,3938
+Mocha,Julia,Machine Learning,Tools,3938
+Manifold Learning,Julia,Machine Learning,Tools,3938
+ANN,Julia,Machine Learning,Tools,3938
+Time Series,Julia,Machine Learning,Tools,3938
+Images,Julia,Machine Learning,Tools,3938
+DSP,Julia,Machine Learning,Tools,3938
+SignalProcessing,Julia,Machine Learning,Tools,3938
+Dimensionality Reduction,Julia,Machine Learning,Tools,3938
+SVM,Julia,Machine Learning,Tools,3938
+Simple MCMC,Julia,Machine Learning,Tools,3938
+GLMNet,Julia,Machine Learning,Tools,3938
+Mamba,Julia,Machine Learning,Tools,3938
+Neural,Julia,Machine Learning,Tools,3938
+Mastering Julia (Malcom Sherrington),Julia,Web Apps,Books,3938
+Julia for Data Science (Ivo Balbaert),Julia,Web Apps,Classes,3938
+JuliaWeb,Julia,Web Apps,Tools,3938
+JavaScript and JQuery: Interactive Front-End Web Development,JavaScript,Other,Books,3938
+Learning Path: Javascript Patterns,JavaScript,Other,Classes,3938
+datakit,JavaScript,Other,Tools,3938
+sylvester,JavaScript,Other,Tools,3938
+N/A,JavaScript,Big Data,Books,3938
+N/A,JavaScript,Big Data,Classes,3938
+Clusterize.js,JavaScript,Big Data,Tools,3938
+N/A,JavaScript,Data Mining,Books,3938
+N/A,JavaScript,Data Mining,Classes,3938
+Phantom.js,JavaScript,Data Mining,Tools,3938
+Interactive Data Visualization For The Web (Scott Murray),JavaScript,Data Visualization,Books,3938
+Intermediate D3.js,JavaScript,Data Visualization,Classes,3938
+d3.js,JavaScript,Data Visualization,Tools,3938
+High Charts,JavaScript,Data Visualization,Tools,3938
+dimplejs,JavaScript,Data Visualization,Tools,3938
+D3xter,JavaScript,Data Visualization,Tools,3938
+chartjs,JavaScript,Data Visualization,Tools,3938
+NVD3.js,JavaScript,Data Visualization,Tools,3938
+dc.js,JavaScript,Data Visualization,Tools,3938
+Z3d,JavaScript,Data Visualization,Tools,3938
+sigma.js,JavaScript,Data Visualization,Tools,3938
+"C3,js",JavaScript,Data Visualization,Tools,3938
+N/A,JavaScript,Statistics,Books,3938
+N/A,JavaScript,Statistics,Classes,3938
+statkit,JavaScript,Statistics,Tools,3938
+science.js,JavaScript,Statistics,Tools,3938
+N/A,JavaScript,Machine Learning,Books,3938
+N/A,JavaScript,Machine Learning,Classes,3938
+Twitter-text,JavaScript,Machine Learning,Tools,3938
+NLP Compromise,JavaScript,Machine Learning,Tools,3938
+TextProcessing,JavaScript,Machine Learning,Tools,3938
+Retext,JavaScript,Machine Learning,Tools,3938
+Knwl.ks,JavaScript,Machine Learning,Tools,3938
+NLP.js,JavaScript,Machine Learning,Tools,3938
+Convnet.js,JavaScript,Machine Learning,Tools,3938
+Clustering.js,JavaScript,Machine Learning,Tools,3938
+Synaptic,JavaScript,Machine Learning,Tools,3938
+shaman,JavaScript,Machine Learning,Tools,3938
+Pavlov.js,JavaScript,Machine Learning,Tools,3938
+fiuge,JavaScript,Machine Learning,Tools,3938
+Node-SVM,JavaScript,Machine Learning,Tools,3938
+mil-tokyo,JavaScript,Machine Learning,Tools,3938
+Node-fann,JavaScript,Machine Learning,Tools,3938
+JavaScript Web Applications,JavaScript,Web Apps,Books,3938
+N/A,JavaScript,Web Apps,Classes,3938
+Meteor.js,JavaScript,Web Apps,Tools,3938
+A Tour of C++,C++,Other,Books,3938
+Introduction to C++ (edX),C++,Other,Classes,3938
+MITIE,C++,Other,Tools,3938
+N/A,C++,Big Data,Books,3938
+N/A,C++,Big Data,Classes,3938
+dmtk,C++,Big Data,Tools,3938
+N/A,C++,Data Mining,Books,3938
+N/A,C++,Data Mining,Classes,3938
+N/A,C++,Data Mining,Tools,3938
+N/A,C++,Data Visualization,Books,3938
+N/A,C++,Data Visualization,Classes,3938
+VTK,C++,Data Visualization,Tools,3938
+Qwt,C++,Data Visualization,Tools,3938
+N/A,C++,Statistics,Books,3938
+N/A,C++,Statistics,Classes,3938
+Stan,C++,Statistics,Tools,3938
+Modeling With Data,C++,Machine Learning,Books,3938
+N/A,C++,Machine Learning,Classes,3938
+vowpal rabbit,C++,Machine Learning,Tools,3938
+ROOT,C++,Machine Learning,Tools,3938
+BAT,C++,Machine Learning,Tools,3938
+MeTA,C++,Machine Learning,Tools,3938
+frog,C++,Machine Learning,Tools,3938
+Kaldi,C++,Machine Learning,Tools,3938
+BLLIP Parser,C++,Machine Learning,Tools,3938
+caffe,C++,Machine Learning,Tools,3938
+Fido,C++,Machine Learning,Tools,3938
+DeepDetect,C++,Machine Learning,Tools,3938
+EBLearn,C++,Machine Learning,Tools,3938
+VIGRA,C++,Machine Learning,Tools,3938
+DSSTNE,C++,Machine Learning,Tools,3938
+Timbl,C++,Machine Learning,Tools,3938
+DLib,C++,Machine Learning,Tools,3938
+CNTK,C++,Machine Learning,Tools,3938
+N/A,C++,Web Apps,Books,3938
+N/A,C++,Web Apps,Classes,3938
+.Net,C++,Web Apps,Tools,3938
+Scala for the Impatient,Scala,Other,Books,3938
+Scala for the Impatient,Scala,Other,Classes,3938
+Breeze,Scala,Other,Tools,3938
+zerial,Scala,Other,Tools,3938
+Algebird,Scala,Other,Tools,3938
+Scala for Data Science,Scala,Big Data,Books,3938
+Big Data Analysis with Scala and Spark (Coursera),Scala,Big Data,Classes,3938
+MLlib,Scala,Big Data,Tools,3938
+Scalding,Scala,Big Data,Tools,3938
+Conjecture,Scala,Big Data,Tools,3938
+Summing Bird,Scala,Big Data,Tools,3938
+Scala Data Analysis Cookbook,Scala,Data Mining,Books,3938
+Scala for Data Science,Scala,Data Mining,Classes,3938
+scala-scraper,Scala,Data Mining,Tools,3938
+Scala Data Analysis Cookbook,Scala,Data Visualization,Books,3938
+Scala for Data Science,Scala,Data Visualization,Classes,3938
+Bokeh-Scala,Scala,Data Visualization,Tools,3938
+lightning-scala,Scala,Data Visualization,Tools,3938
+Scala for Data Science,Scala,Statistics,Books,3938
+Scala for Data Science,Scala,Statistics,Classes,3938
+Breeze,Scala,Statistics,Tools,3938
+Scala for Machine Learning,Scala,Machine Learning,Books,3938
+N/A,Scala,Machine Learning,Classes,3938
+Saul,Scala,Machine Learning,Tools,3938
+ScalaNLP,Scala,Machine Learning,Tools,3938
+Chlak,Scala,Machine Learning,Tools,3938
+FACTORIE,Scala,Machine Learning,Tools,3938
+ganitha,Scala,Machine Learning,Tools,3938
+Figaro,Scala,Machine Learning,Tools,3938
+Wolfe,Scala,Machine Learning,Tools,3938
+PredictionIO,Scala,Machine Learning,Tools,3938
+DynaML,Scala,Machine Learning,Tools,3938
+adam,Scala,Machine Learning,Tools,3938
+bioscala,Scala,Machine Learning,Tools,3938
+BIDMach,Scala,Machine Learning,Tools,3938
+Modern Web Development with Scala,Scala,Web Apps,Books,3938
+N/A,Scala,Web Apps,Classes,3938
+Scalatra,Scala,Web Apps,Tools,3938
+Go in Action,Go,Other,Books,3938
+N/A,Go,Other,Classes,3938
+go-graph,Go,Other,Tools,3938
+N/A,Go,Big Data,Books,3938
+N/A,Go,Big Data,Classes,3938
+N/A,Go,Big Data,Tools,3938
+N/A,Go,Data Mining,Books,3938
+N/A,Go,Data Mining,Classes,3938
+N/A,Go,Data Mining,Tools,3938
+N/A,Go,Data Visualization,Books,3938
+N/A,Go,Data Visualization,Classes,3938
+SVGo,Go,Data Visualization,Tools,3938
+N/A,Go,Statistics,Books,3938
+N/A,Go,Statistics,Classes,3938
+golang-stats,Go,Statistics,Tools,3938
+N/A,Go,Machine Learning,Books,3938
+N/A,Go,Machine Learning,Classes,3938
+N/A,Go,Machine Learning,Tools,3938
+Go Learn,Go,Machine Learning,Tools,3938
+RF,Go,Machine Learning,Tools,3938
+gobrain,Go,Machine Learning,Tools,3938
+GoNN,Go,Machine Learning,Tools,3938
+go-galib,Go,Machine Learning,Tools,3938
+go-pr,Go,Machine Learning,Tools,3938
+go-ml,Go,Machine Learning,Tools,3938
+N/A,Go,Web Apps,Books,3938
+N/A,Go,Web Apps,Classes,3938
+Revel,Go,Web Apps,Tools,3938
+N/A,MatLab,Other,Books,3938
+N/A,MatLab,Other,Classes,3938
+N/A,MatLab,Other,Tools,3938
+N/A,MatLab,Big Data,Books,3938
+N/A,MatLab,Big Data,Classes,3938
+N/A,MatLab,Big Data,Tools,3938
+N/A,MatLab,Data Mining,Books,3938
+N/A,MatLab,Data Mining,Classes,3938
+N/A,MatLab,Data Mining,Tools,3938
+N/A,MatLab,Data Visualization,Books,3938
+N/A,MatLab,Data Visualization,Classes,3938
+matlab_gbl,MatLab,Data Visualization,Tools,3938
+N/A,MatLab,Statistics,Books,3938
+N/A,MatLab,Statistics,Classes,3938
+N/A,MatLab,Statistics,Tools,3938
+N/A,MatLab,Machine Learning,Books,3938
+N/A,MatLab,Machine Learning,Classes,3938
+N/A,MatLab,Machine Learning,Tools,3938
+NLP,MatLab,Machine Learning,Tools,3938
+LibSVM,MatLab,Machine Learning,Tools,3938
+LibLInear,MatLab,Machine Learning,Tools,3938
+PRMLT,MatLab,Machine Learning,Tools,3938
+PRT,MatLab,Machine Learning,Tools,3938
+Optunity,MatLab,Machine Learning,Tools,3938
+N/A,MatLab,Web Apps,Books,3938
+N/A,MatLab,Web Apps,Classes,3938
+N/A,MatLab,Web Apps,Tools,3938
+N/A,Lua,Other,Books,3938
+N/A,Lua,Other,Classes,3938
+cephes,Lua,Other,Tools,3938
+randomkit,Lua,Other,Tools,3938
+optim,Lua,Other,Tools,3938
+SciLua,Lua,Other,Tools,3938
+Lunum,Lua,Other,Tools,3938
+imgraph,Lua,Other,Tools,3938
+videograph,Lua,Other,Tools,3938
+stitch,Lua,Other,Tools,3938
+N/A,Lua,Big Data,Books,3938
+N/A,Lua,Big Data,Classes,3938
+N/A,Lua,Big Data,Tools,3938
+N/A,Lua,Data Mining,Books,3938
+N/A,Lua,Data Mining,Classes,3938
+N/A,Lua,Data Mining,Tools,3938
+N/A,Lua,Data Visualization,Books,3938
+N/A,Lua,Data Visualization,Classes,3938
+N/A,Lua,Data Visualization,Tools,3938
+N/A,Lua,Statistics,Books,3938
+N/A,Lua,Statistics,Classes,3938
+N/A,Lua,Statistics,Tools,3938
+N/A,Lua,Machine Learning,Books,3938
+N/A,Lua,Machine Learning,Classes,3938
+N/A,Lua,Machine Learning,Tools,3938
+signal,Lua,Machine Learning,Tools,3938
+nn,Lua,Machine Learning,Tools,3938
+rnn,Lua,Machine Learning,Tools,3938
+dp,Lua,Machine Learning,Tools,3938
+unsup,Lua,Machine Learning,Tools,3938
+fex,Lua,Machine Learning,Tools,3938
+Torch,Lua,Machine Learning,Tools,3938
+svm,Lua,Machine Learning,Tools,3938
+OpenGM,Lua,Machine Learning,Tools,3938
+manifold,Lua,Machine Learning,Tools,3938
+N/A,Lua,Web Apps,Books,3938
+N/A,Lua,Web Apps,Classes,3938
+N/A,Lua,Web Apps,Tools,3938
+N/A,Ruby,Other,Books,3938
+N/A,Ruby,Other,Classes,3938
+Glean,Ruby,Other,Tools,3938
+SciRuby,Ruby,Other,Tools,3938
+N/A,Ruby,Big Data,Books,3938
+N/A,Ruby,Big Data,Classes,3938
+N/A,Ruby,Big Data,Tools,3938
+N/A,Ruby,Data Mining,Books,3938
+N/A,Ruby,Data Mining,Classes,3938
+N/A,Ruby,Data Mining,Tools,3938
+N/A,Ruby,Data Visualization,Books,3938
+N/A,Ruby,Data Visualization,Classes,3938
+plot-rb,Ruby,Data Visualization,Tools,3938
+scruffy,Ruby,Data Visualization,Tools,3938
+data-visualization-ruby,Ruby,Data Visualization,Tools,3938
+N/A,Ruby,Statistics,Books,3938
+N/A,Ruby,Statistics,Classes,3938
+N/A,Ruby,Statistics,Tools,3938
+N/A,Ruby,Machine Learning,Books,3938
+N/A,Ruby,Machine Learning,Classes,3938
+N/A,Ruby,Machine Learning,Tools,3938
+Treat,Ruby,Machine Learning,Tools,3938
+Ruby Linguistics,Ruby,Machine Learning,Tools,3938
+Ruby Machine Learning,Ruby,Machine Learning,Tools,3938
+Bioruby,Ruby,Machine Learning,Tools,3938
+rb-libsvm,Ruby,Machine Learning,Tools,3938
+classfier,Ruby,Machine Learning,Tools,3938
+N/A,Ruby,Web Apps,Books,3938
+N/A,Ruby,Web Apps,Classes,3938
+N/A,Ruby,Web Apps,Tools,3938
